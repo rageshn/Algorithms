@@ -46,4 +46,4 @@ def bfs(G, startNode):
     print("Explored order: ", explored)
 
 
-bfs(graph, startNode=8)
+bfs(graph, startNode=5)
