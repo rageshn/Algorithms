@@ -19,7 +19,7 @@ Time complexity: Polynomial over 'n' and 'm'. Nearly Omega(n^2 * m)
 
 import random
 
-raw = open("randomcontraction/graph", "r")
+raw = open("resources/graph", "r")
 
 graph = {}
 
