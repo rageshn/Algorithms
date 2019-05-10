@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3cfaa6e-ba3f-40cf-b30b-ce0688715a0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/shortestpathwithbfs/spwithbfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/dfs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path=".idea/" />
@@ -16,72 +16,82 @@
     <session id="960623710">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.116" value="1" />
+          <entry key="project.open.time.122" value="1" />
           <entry key="project.open.time.127" value="1" />
+          <entry key="project.open.time.130" value="1" />
           <entry key="project.open.time.135" value="1" />
           <entry key="project.open.time.162" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.86" value="1" />
           <entry key="project.open.time.92" value="1" />
           <entry key="project.open.time.95" value="2" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="57" />
-          <entry key="py" value="6481" />
+          <entry key="dummy" value="76" />
+          <entry key="py" value="7838" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="57" />
-          <entry key="Python" value="6481" />
+          <entry key="PLAIN_TEXT" value="76" />
+          <entry key="Python" value="7838" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="graph" value="5" />
-          <entry key="py" value="25" />
+          <entry key="py" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="25" />
+          <entry key="Python" value="29" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shortestpathwithbfs/spwithbfs.py">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bfs/bfs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="253">
+              <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bfs/bfs.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dfs/dfs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+            <state relative-caret-position="-20">
+              <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+              <folding>
+                <marker date="1557501391473" expanded="true" signature="1249:1254" ph="..." />
+                <marker date="1557501391473" expanded="true" signature="1473:1496" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,14 +118,15 @@
         <option value="$PROJECT_DIR$/randomcontraction/randomcontraction.py" />
         <option value="$PROJECT_DIR$/bfs/bfs.py" />
         <option value="$PROJECT_DIR$/shortestpathwithbfs/spwithbfs.py" />
+        <option value="$PROJECT_DIR$/dfs/dfs.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="y" value="-4" />
-    <option name="width" value="1398" />
-    <option name="height" value="914" />
+    <option name="x" value="292" />
+    <option name="y" value="16" />
+    <option name="width" value="1400" />
+    <option name="height" value="922" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,6 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,16 +150,16 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="shortestpathwithbfs" type="462c0819:PsiDirectoryNode" />
+              <item name="dfs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -167,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.spwithbfs">
+  <component name="RunManager" selected="Python.dfs">
     <configuration name="bfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quicksort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dfs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quicksort/quicksort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dfs/dfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,19 +286,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.quicksort" />
       <item itemvalue="Python.randomizedselection" />
       <item itemvalue="Python.randomcontraction" />
       <item itemvalue="Python.bfs" />
       <item itemvalue="Python.spwithbfs" />
+      <item itemvalue="Python.dfs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.spwithbfs" />
+        <item itemvalue="Python.dfs" />
         <item itemvalue="Python.bfs" />
+        <item itemvalue="Python.spwithbfs" />
         <item itemvalue="Python.randomcontraction" />
         <item itemvalue="Python.randomizedselection" />
-        <item itemvalue="Python.quicksort" />
       </list>
     </recent_temporary>
   </component>
@@ -307,18 +319,18 @@
     <frame x="64" y="-11" width="1857" height="970" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21503593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15644002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32853717" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32853717" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39928058" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35731414" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.31294963" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -372,17 +384,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bfs/bfs.py">
+    <entry file="file://$PROJECT_DIR$/shortestpathwithbfs/spwithbfs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        <state relative-caret-position="495">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shortestpathwithbfs/spwithbfs.py">
+    <entry file="file://$PROJECT_DIR$/undirectedconnectivity/undirconwithbfs.py" />
+    <entry file="file://$PROJECT_DIR$/bfs/bfs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="253">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfs/dfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+          <folding>
+            <marker date="1557501391473" expanded="true" signature="1249:1254" ph="..." />
+            <marker date="1557501391473" expanded="true" signature="1473:1496" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
