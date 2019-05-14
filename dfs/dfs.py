@@ -29,7 +29,7 @@ DFS(Graph G, startVertex S):
 
 Time Complexity: O(V+E) --> O(# of nodes reachable from S + # of edges reachable from S)
 
-=> Used in maze problems
+=> Used in maze problems and finding Topological Ordering
 
 """
 
